@@ -14,4 +14,4 @@ Unifox Python Study
 
 자료 링크
 --------
-https://wikidocs.net/book/1
+점프 투 파이썬 : https://wikidocs.net/book/1
